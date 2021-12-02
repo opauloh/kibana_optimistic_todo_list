@@ -1,0 +1,15 @@
+{
+  "id": "kibanaOptimisticTodoList",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "owner": {
+    "name": "opauloh",
+    "githubTeam": ""
+  },
+  "description": "optimistic ui in kibana with react query ",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "requiredBundles": ["kibanaReact"],
+  "optionalPlugins": []
+}

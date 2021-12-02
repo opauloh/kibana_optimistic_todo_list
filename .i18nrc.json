@@ -1,0 +1,7 @@
+{
+  "prefix": "myOptmisticTodoList",
+  "paths": {
+    "myOptmisticTodoList": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
